@@ -1,0 +1,12 @@
+# This file keeps the models directory in git
+# Place your trained YOLO model here ves_model.pt
+
+# REQUIRED FILE ves_model.pt
+# 
+# To get this file
+# 1. Train your YOLO model on Roboflow
+# 2. Export as YOLOv8 PyTorch (.pt format)  
+# 3. Download and rename to ves_model.pt
+# 4. Upload to this directory
+#
+# Without this model, the Vision API will not work!
