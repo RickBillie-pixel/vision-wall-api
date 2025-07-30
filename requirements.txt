@@ -1,0 +1,22 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+pydantic==2.6.4
+
+# PDF & Image Processing
+PyMuPDF==1.23.21
+pillow==10.2.0
+numpy==1.26.3
+
+# YOLO & ML
+ultralytics==8.1.0
+torch==2.2.0
+torchvision==0.17.0
+
+# Memory management
+psutil==5.9.8
+
+# Additional dependencies for YOLO
+opencv-python==4.9.0.80
+matplotlib==3.8.3
+scipy==1.12.0
